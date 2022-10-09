@@ -14,6 +14,9 @@ h1 {
   color: #fff;
   line-height: 1.69;
 }
+
+h1--main {
+
 h1--uday {
   font-weight: 900;
   font-size: 500%;
@@ -23,6 +26,7 @@ h1--uday {
   line-height: 1.69;
 }
 h1--main{
+
   font-weight: 900;
   font-size: 500%;
   text-align: center;
